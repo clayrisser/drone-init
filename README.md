@@ -1,9 +1,9 @@
 # Drone Init
-A helpful utility to quickly initialize your drone instance with your repositories
+Batch initialize drone projects
 
 ## Features
 * Setup CLI access to your drone server
-* Add your secrets once
+* Add your secrets to a batch of drone projects
 
 ## Usage
 ```

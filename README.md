@@ -10,3 +10,5 @@ Batch initialize drone projects
 curl -LO https://raw.githubusercontent.com/jamrizzi/drone-init/master/drone-init.py
 python drone-init.py
 ```
+Make sure projects are properly signed so they can access the secrets.
+You can read more about this [HERE](http://readme.drone.io/cli/drone-sign/).

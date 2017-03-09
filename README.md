@@ -7,5 +7,6 @@ Batch initialize drone projects
 
 ## Usage
 ```
+curl -LO https://raw.githubusercontent.com/jamrizzi/drone-init/master/drone-init.py
 python drone-init.py
 ```

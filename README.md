@@ -1,5 +1,5 @@
 # Drone Init
-Batch initialize drone projects
+Batch initialize [drone](https://github.com/drone/drone) projects
 
 ## Features
 * Setup CLI access to your drone server

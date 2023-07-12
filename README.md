@@ -1,6 +1,8 @@
 # Drone Init
 Batch initialize [drone](https://github.com/drone/drone) projects
 
+![](assets/drone-init.png)
+
 ## Features
 * Setup CLI access to your drone server
 * Add your secrets to a batch of drone projects
